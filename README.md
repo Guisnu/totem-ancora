@@ -45,7 +45,7 @@ cd totem-ancora
 3º Instale as dependências com o seguinte comando:
 
 ```bash
-npm run i
+npm install
 ```
 
 4º Inicie o projeto:
